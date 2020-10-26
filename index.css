@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: rgba(0, 56, 0, 0.897);
+}
+
+canvas{
+    border: 1px solid rgb(0, 63, 0);
+    box-shadow: 0px 0px 13px rgb(0, 0, 0);
+    background-image: url("./assets/floor.png");
+    background-position: center;
+    margin-top: 5vh;
+}
+
+h1{
+    margin: 0px;
+    margin-top: 5vh;
+    padding: 0px;
+    color: white;
+}
